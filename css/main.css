@@ -123,6 +123,10 @@ li {
     }
 }
 
+.u815 p span {
+    font-weight: bold;
+}
+
 @media (min-width: 375px) {
     .u815 p {
         text-align: left;
@@ -133,6 +137,7 @@ li {
 .gigs p {
     text-align: left;
     margin-top: 10px;
+    font-weight: bold;
 }
 .gigs span {
     float: right;
